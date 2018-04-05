@@ -14,8 +14,13 @@ Examples:<br/>
 * Incorrect or missing outcomes
 * User can't see queues or service requests<br/>
 <br/>Submit an issue and label it with business process label. We'll have to verify with supervisors and the internal 311 team before making changes.<br/>
-#### Enhancement
-Something that might seem like a business process issue might turn out to be an enhancement. Enhancements are suggestions for improvements or changes. <br/>
+#### Enhancements
+Suggestions for improvements or changes.<br/>
+Examples:<br/>
+* Add a new activity or change activities in a service request to reflect work better
+* Edit or change queues
+* Edit a SLA after we find out the assigned SLA isn't reflective<br/>
+<br/> Submit an issue with the label enhancement. Similar to business process issues, we'll have to check with supervisers and the 311 team.
 #### Technical Issues or Bugs
 The system itself is glitchy and isn't working as expected.<br/>
 Examples:<br/>
@@ -25,6 +30,6 @@ Examples:<br/>
 * Details aren't showing up on the detail page
 * User can't update case
 * User can't complete an activity<br/>
-<br/>Check user permissions and then submit a github issue. Their permissions might be limiting their ability to complete an action. If their permissions are fine, submit an issue. Our core team will look at the issue and determine next steps. <br/>
+<br/>Check user permissions and then submit a github issue. Their permissions might be limiting their ability to complete an action. If their permissions are fine, submit an issue. Our core team will look at the issue and determine next steps.<br/>
 #### Questions
 If you need more information about a specific process or run into something you don't have an answer to, you can submit an issue with the question label for the 311 team. For questions that are more urgent or need a fast response, label the issue with help needed.
