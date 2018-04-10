@@ -1,18 +1,18 @@
-#### Type of Issue
+#### Type of Issue:
 
-#### Priority
+#### Priority:
 
-#### Platform having issues
+#### Platform having issues:
 
-#### Details 
+#### Details: 
 
-#### Examples
+#### Examples:
 
-#### Case Numbers
+#### Case Numbers:
 
-#### Screenshots
+#### Screenshots:
 
-#### Who reported the issue/ dept./division
+#### Who reported the issue/ dept./division:
 
 #### Does employee want follow up? If yes:<br/>
 ##### Email<br/>
